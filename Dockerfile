@@ -7,3 +7,4 @@ RUN curl https://install.meteor.com/ | sh
 RUN meteor --version
 RUN meteor node --version
 RUN node --version
+RUN meteor --version
